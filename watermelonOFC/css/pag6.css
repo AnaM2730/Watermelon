@@ -1,0 +1,391 @@
+
+    body {
+        background-color: rgb(0, 0, 0);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+      }
+       
+      img{
+          float: left
+      }
+      
+      hr{
+          float: left;
+      }
+      
+      header{
+        padding: 20px 0;
+        }
+       
+        .artista{
+            background: transparent;
+            color: white ;
+            text-align: center;
+            border-radius: 10px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            margin: 10px;
+            font-size: 40px;
+            text-decoration: none;
+            position: absolute;
+            left: 25%;
+            margin-left: 20px;
+            top: 3px;
+        }
+
+
+.btn7{
+    font-size: 17px;
+    background: transparent;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    text-decoration: none;
+}    
+
+
+      h2{
+          color: white;
+          font-size: 25px;
+          align-items: center;
+          display: flex;
+         
+      }
+      
+      h1{
+          color: white;
+          font-size: 30px;
+      }
+      
+      
+      .t{
+          border-left: 2px solid red;
+          height: 1000px;
+          position: absolute;
+          left: 23%;
+          margin-left: 20px;
+          top: 3px;
+      }
+        .btn1 {
+      
+      color: white;
+      text-decoration: none;
+      border-radius: 0px;
+      
+      }
+      
+         .btn1{
+          position: absolute;
+          font-size: 17px;
+          background: transparent;
+          color: rgba(123, 129, 136, 0.863) ;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }    
+      
+      
+      .btn1:hover{
+          background: transparent;
+          color: red;
+      }
+      
+      .btn2{
+          font-size: 17px;
+          background: transparent;
+          color: rgba(123, 129, 136, 0.863) ;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }    
+      
+      
+      .btn2:hover{
+          background: transparent;
+          color: red;
+      }
+      
+      .btn-2{
+          font-size: 17px;
+          background: transparent;
+          color: rgba(130, 134, 138, 0.863) ;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }    
+      
+      
+      .btn-2:hover{
+          background: transparent;
+          color: red;
+      }
+      
+      .btn-3{
+          text-align: left;
+          font-size: 20px;
+          background: transparent;
+          color: white;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }    
+      
+      .menu3{
+          text-align: left;
+          font-size: 20px;
+          background: transparent;
+          color: white;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }   
+      
+      .btn3{
+          font-size: 17px;
+          background: transparent;
+          color: rgba(106, 114, 122, 0.863) ;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }    
+      
+      
+      .btn3:hover{
+          background: transparent;
+          color: red;
+      }
+      
+      
+      
+      .btn4{
+          font-size: 17px;
+          background: transparent;
+          color: rgba(105, 110, 114, 0.863) ;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }    
+      
+      
+      .btn4:hover{
+          background: transparent;
+          color: red;
+      }
+      
+      .btn5{
+          font-size: 17px;
+          background: transparent;
+          color: rgba(104, 109, 113, 0.863) ;
+          text-align: left;
+          border-radius: 10px;
+          margin: 0px;
+          text-decoration: none;
+      }    
+      
+      
+      .btn5:hover{
+          background: transparent;
+          color: red;
+      }
+      
+      .linha-vertical {
+          height: 200px;
+          border-right: 1px solid red;
+          color: red;
+      }
+      
+      .menu1{
+      text-align: left;
+      color: rgb(114, 119, 124);
+      
+      }
+      
+      .menu3{
+          display: flex;
+          display: inline;
+          display: table-column;
+          position: absolute;
+          left: 25%;
+          top: 10%;
+      
+      }
+      
+
+
+
+.skillet{
+            color: white ;
+            text-align: center;
+            border-radius: 10px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            margin: 10px;
+            text-decoration: none;
+            position: absolute;
+            left: 25%;
+            margin-left: 20px;
+            top: 50px;
+}
+
+.faixa1{
+
+    color: white ;
+            text-align: center;
+            border-radius: 10px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            margin: 10px;
+            font-size: 40px;
+            text-decoration: none;
+            position: absolute;
+            left: 25%;
+            margin-left: 20px;
+            top: 130px;
+}
+
+
+.Neighbourhood{
+    color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    text-decoration: none;
+    position: absolute;
+    left: 65%;
+    margin-left: 20px;
+    top: 50px;
+}
+
+.faixa2{
+color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    font-size: 40px;
+    text-decoration: none;
+    position: absolute;
+    left: 65%;
+    margin-left: 20px;
+    top: 130px;
+}
+
+
+.semblante{ 
+    color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    text-decoration: none;
+    position: absolute;
+    left: 25%;
+    margin-left: 20px;
+    top: 150px;
+}
+
+.faixa3{
+color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    font-size: 40px;
+    text-decoration: none;
+    position: absolute;
+    left: 25%;
+    margin-left: 20px;
+    top: 250px;
+}
+
+
+.try{
+    color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    text-decoration: none;
+    position: absolute;
+    left: 65%;
+    margin-left: 20px;
+    top: 150px;
+}
+
+.faixa4{
+color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    font-size: 40px;
+    text-decoration: none;
+    position: absolute;
+    left: 65%;
+    margin-left: 20px;
+    top: 250px;
+}
+
+
+
+.boy{ 
+    color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    text-decoration: none;
+    position: absolute;
+    left: 25%;
+    margin-left: 20px;
+    top: 255px;
+}
+
+.faixa5{
+color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    font-size: 40px;
+    text-decoration: none;
+    position: absolute;
+    left: 25%;
+    margin-left: 20px;
+    top: 350px;
+}
+
+.espada{
+    color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    text-decoration: none;
+    position: absolute;
+    left: 65%;
+    margin-left: 20px;
+    top: 250px;
+}
+
+.faixa6{
+color: white ;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    font-size: 40px;
+    text-decoration: none;
+    position: absolute;
+    left: 65%;
+    margin-left: 20px;
+    top: 350px;
+}

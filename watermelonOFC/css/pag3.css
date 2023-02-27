@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Times New Roman', Times, serif;
+    }
+    
+    body{
+        background-image: url(../assets/fundo3.jpg);
+        background-repeat: no-repeat;
+        background-size: 2000px 1000px;
+        background-attachment: fixed;
+    
+      }
+    h1{
+        font-size: 50px;
+        color: white;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    h2{
+        color: white;
+        font-size: 18px;
+    }
+    
+    body{
+        background-color: white;
+    }
+    
+        header{
+        padding: 20px 0;
+        }
+
+        .redes-1{
+            font-size: 25px;
+            text-decoration: none;
+            display: block;
+            text-align: center;
+            margin-bottom: 5px;
+            padding: 10px;
+            padding-bottom: 10px;
+            font-weight: bold;
+            margin: 10px 20px 10px 20px;
+            margin-right: 20px;
+        }
+        .redes-1{
+            color:white;
+            background-color: transparent;
+        border-radius: 0px;
+        border-bottom: 5px solid rgb(2, 46, 20) ;
+        transition: transform 0.5s;
+        }
+        .redes-1:hover{
+            background-color:  rgba(22, 151, 22, 0.394);
+            box-shadow: 0px 0px 20px rgba(2, 247, 100, 0.896);
+            transform: translate(opx, -5px);
+            transition: transform 0.5s;
+            border-radius: 10px;
+        } 
+        
+        .redes-2{
+            font-size: 25px;
+            text-decoration: none;
+            display: block;
+            text-align: center;
+            margin-bottom: 5px;
+            padding: 10px;
+            padding-bottom: 10px;
+            font-weight: bold;
+            margin: 10px 20px 10px 20px;
+            margin-right: 20px;
+        }
+        .redes-2{
+            color:white;
+            background-color: transparent;
+        border-radius: 0px;
+        border-bottom: 5px solid rgb(1, 41, 1) ;
+        transition: transform 0.5s;
+        }
+        .redes-2:hover{
+            background-color: rgba(9, 99, 9, 0.394);
+            box-shadow: 0px 0px 20px rgba(4, 241, 99, 0.896);
+            transform: translate(opx, -5px);
+            transition: transform 0.5s;
+            border-radius: 10px;
+        } 
+
+        .btn1{
+            background: transparent;
+            color: white ;
+            text-align: center;
+            border-radius: 10px;
+            margin: 10px;
+            text-decoration: none;
+        }    
+        
+        
+        .btn1:hover{
+            background: transparent;
+            color: red;
+        }
+
+        .btn2{
+            background: transparent;
+            color: white ;
+            text-align: center;
+            border-radius: 10px;
+            margin: 10px;
+            text-decoration: none;
+        }    
+        
+        
+        .btn2:hover{
+            background: transparent;
+            color: red;
+        }
+
+        .btn3{
+            background: transparent;
+            color: white;
+            text-align: center;
+            border-radius: 5px;
+            margin: 10px;
+            text-decoration: none;
+        }    
+        
+        
+        .btn3:hover{
+            background: transparent;
+            color: red;
+        }
+
+     
+ .social a{
+        width: 600px;
+        height: 60px;
+    text-align: center;
+        
+    }
+    
+    .tel-1{
+        color: greenyellow;
+    border-color: black;
+     background: transparent;
+     text-align:left;
+            color: lime (10, 255, 64);
+            border-radius: 5px;
+            margin: 50px;
+            border-radius: 10px;
+    }
+    .text label{
+        width:600px;
+    height:45px;
+    display: flex;
+    text-align: left;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 10px;
+    background-color: transparent;
+    }
+    
+.text input{
+
+    width:400px;
+    height:45px;
+    
+}  
+.fone{
+    color: lime;
+    font-size: 15px;
+    text-transform: none;
+    width:550px;
+    height:35px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.enter{
+    color: lime;
+    font-size: 15px;
+    text-transform: none;
+    width:600px;
+    height:45px;
+    display: flex;
+    text-align: left;
+    border-radius: 10px;
+}
+.text{
+    width:600px;
+    height:45px;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    outline: none;
+}
+
+.end label{
+    color: white;
+    width:600px;
+    height:45px;
+    display: flex;
+    text-align: left;
+    border-radius: 10px;
+    font-size: 15px;
+    outline: none;
+} 
+
+.end input{
+    border-color: #2aac1959;
+    background-color: #23b37017;
+    border-radius: 10px;
+    width:600px;
+    height:45px;
+    outline: none;
+    color: #daddf8;
+    padding-left: 10px;
+}
+
+input::placeholder{
+    color: #daddf8;
+    font-size: 14px;
+}
+
+.entrar1{
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-color: #70fa0d0c;
+    background-color: #07880d15;
+    border-radius: 30px;
+    font-size: 25px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: bold;
+    width:300px;
+    height:45px;
+}
+
+.entrar1:hover{
+    background-color: #0f501dd9;
+    box-shadow: 0px 0px 20px #0aea55ec;
+    transform: translate(opx, -5px);
+    transition: transform 0.5s;
+    border-radius: 10px;
+} 
